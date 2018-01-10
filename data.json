@@ -1,0 +1,159 @@
+[
+	{
+		"day": 1,
+		"subjects": {
+			"Alg_lecture": {
+				"name": "Алгоритмы и структуры данных (лекция)",
+				"room": "1-313",
+				"time": "8:30",
+				"weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+			},
+			"English": {
+				"name": "инглиш",
+				"time": "10:00",
+				"weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+			}
+		}
+	},
+	{
+		"day": 2,
+		"subjects": {
+			"Alg_practice": {
+				"name": "Alg_practice",
+				"groups": [
+					{"number": 2, "room": "1-309", "time": "10:00", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+					{"number": 3, "room": "1-309", "time": "8:30", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}
+				]
+			},
+			"Data_processing_lecture": {
+				"name": "Data_processing_lecture",
+				"room": "1-223",
+				"time": "11:40",
+				"weeks": [1, 3, 5, 7, 9, 11, 13, 14]
+			} ,
+			"Data_processing_practice": {
+				"name": "Data_processing_practice",
+				"groups": [
+					{"number": 1, "room": "1-206", "time": "11:40", "weeks": [4]},
+					{"number": 2, "room": "1-206", "time": "11:40", "weeks": [6]},
+					{"number": 3, "room": "1-206", "time": "11:40", "weeks": [10]},
+					{"number": 4, "room": "1-206", "time": "11:40", "weeks": [12]},
+					{"number": 5, "room": "1-206", "time": "11:40", "weeks": [2]},
+					{"number": 1, "room": "1-206", "time": "13:30", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]},
+					{"number": 2, "room": "1-206", "time": "15:00", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]},
+					{"number": 3, "room": "1-206", "time": "16:30", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]},
+					{"number": 4, "room": "1-206", "time": "8:30", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]},
+					{"number": 5, "room": "1-206", "time": "10:00", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]}
+				]
+			}
+		}
+	},
+	{
+		"day": 3,
+		"subjects": {
+			"ukr": {
+				"name": "ukr",
+				"groups": [
+					{"number": 5, "room": "3-220a", "time": "8:30", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+					{"number": 6, "room": "3-220a", "time": "10:00", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+					{"number": 7, "room": "3-220a", "time": "11:40", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}
+				]
+			},
+			"Alg_practice": {
+				"name": "Alg_practice",
+				"groups": [
+					{"number": 1, "room": "1-309", "time": "8:30", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+					{"number": 2, "room": "1-309", "time": "10:00", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+					{"number": 3, "room": "1-309", "time": "8:30", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+					{"number": 4, "room": "1-309", "time": "10:00", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}
+				]
+			},
+			"PT": {
+				"name": "PT",
+				"groups": [
+					{"number": 1, "room": "Спортзал", "time": "13:30", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+					{"number": 2, "room": "Спортзал", "time": "15:00", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}
+				]
+			}
+		}
+	},
+	{
+		"day": 4,
+		"subjects": {
+			"Calculus_lecture": {
+				"name": "Calculus_lecture",
+				"room": "3-302",
+				"time": "8:30",
+				"weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+			},
+			"Calculus_practice": {
+				"name": "Calculus_practice",
+				"groups": [
+					{"number": 1, "room": "1-112", "time": "10:00", "weeks": [1, 3, 5, 7, 10, 12, 14]},
+					{"number": 2, "room": "1-112", "time": "11:40", "weeks": [1, 3, 5, 7, 10, 12, 14]}
+				]
+			},
+			"Discmath_lecture": {
+				"name": "Discmath_lecture",
+				"room": "3-302",
+				"time": "15:00",
+				"weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+			},
+			"Discmath_practice": {
+				"name": "Discmath_practice",
+				"groups": [
+					{"number": 1, "room": "1-112", "time": "13:30", "weeks": [2, 4, 6, 9, 11, 13, 15]},
+					{"number": 2, "room": "3-309", "time": "13:30", "weeks": [2, 4, 6, 9, 11, 13, 15]}
+				]
+			}
+		}
+	},
+	{
+		"day": 5,
+		"subjects": {
+			"EOM_lecture": {
+				"name": "EOM_lecture",
+				"room": "1-223",
+				"time": "11:40",
+				"weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+			},
+			"Alg_practice": {
+				"name": "Alg_practice",
+				"groups": [
+					{"number": 5, "room": "1-309", "time": "8:30", "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}
+				]
+			},
+			"English": {
+				"name": "инглиш",
+				"room": "You know better than I do",
+				"time": "10:00",
+				"weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+			},
+			"EOM_practice": {
+				"name": "EOM_practice",
+				"groups": [
+					{"number": 1, "room": "1-307", "time": "13:30", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]},
+					{"number": 2, "room": "1-112", "time": "13:30", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]},
+					{"number": 3, "room": "1-307", "time": "15:00", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]},
+					{"number": 4, "room": "1-112", "time": "15:00", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]},
+					{"number": 5, "room": "1-307", "time": "16:30", "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]}
+				]
+			}
+		}
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
